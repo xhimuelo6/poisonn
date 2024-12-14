@@ -1,0 +1,8 @@
+Flask
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+seaborn
+openpyxl
